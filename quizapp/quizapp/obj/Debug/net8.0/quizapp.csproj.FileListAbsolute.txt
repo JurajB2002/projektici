@@ -1,0 +1,14 @@
+C:\Users\SSS-uberhagen\source\repos\quizapp\quizapp\bin\Debug\net8.0\quizapp.exe
+C:\Users\SSS-uberhagen\source\repos\quizapp\quizapp\bin\Debug\net8.0\quizapp.deps.json
+C:\Users\SSS-uberhagen\source\repos\quizapp\quizapp\bin\Debug\net8.0\quizapp.runtimeconfig.json
+C:\Users\SSS-uberhagen\source\repos\quizapp\quizapp\bin\Debug\net8.0\quizapp.dll
+C:\Users\SSS-uberhagen\source\repos\quizapp\quizapp\bin\Debug\net8.0\quizapp.pdb
+C:\Users\SSS-uberhagen\source\repos\quizapp\quizapp\obj\Debug\net8.0\quizapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSS-uberhagen\source\repos\quizapp\quizapp\obj\Debug\net8.0\quizapp.AssemblyInfoInputs.cache
+C:\Users\SSS-uberhagen\source\repos\quizapp\quizapp\obj\Debug\net8.0\quizapp.AssemblyInfo.cs
+C:\Users\SSS-uberhagen\source\repos\quizapp\quizapp\obj\Debug\net8.0\quizapp.csproj.CoreCompileInputs.cache
+C:\Users\SSS-uberhagen\source\repos\quizapp\quizapp\obj\Debug\net8.0\quizapp.dll
+C:\Users\SSS-uberhagen\source\repos\quizapp\quizapp\obj\Debug\net8.0\refint\quizapp.dll
+C:\Users\SSS-uberhagen\source\repos\quizapp\quizapp\obj\Debug\net8.0\quizapp.pdb
+C:\Users\SSS-uberhagen\source\repos\quizapp\quizapp\obj\Debug\net8.0\quizapp.genruntimeconfig.cache
+C:\Users\SSS-uberhagen\source\repos\quizapp\quizapp\obj\Debug\net8.0\ref\quizapp.dll
