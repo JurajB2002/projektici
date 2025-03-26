@@ -1,0 +1,14 @@
+C:\Users\gbanu\source\repos\whetherSimulator\whetherSimulator\bin\Debug\net8.0\whetherSimulator.exe
+C:\Users\gbanu\source\repos\whetherSimulator\whetherSimulator\bin\Debug\net8.0\whetherSimulator.deps.json
+C:\Users\gbanu\source\repos\whetherSimulator\whetherSimulator\bin\Debug\net8.0\whetherSimulator.runtimeconfig.json
+C:\Users\gbanu\source\repos\whetherSimulator\whetherSimulator\bin\Debug\net8.0\whetherSimulator.dll
+C:\Users\gbanu\source\repos\whetherSimulator\whetherSimulator\bin\Debug\net8.0\whetherSimulator.pdb
+C:\Users\gbanu\source\repos\whetherSimulator\whetherSimulator\obj\Debug\net8.0\whetherSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gbanu\source\repos\whetherSimulator\whetherSimulator\obj\Debug\net8.0\whetherSimulator.AssemblyInfoInputs.cache
+C:\Users\gbanu\source\repos\whetherSimulator\whetherSimulator\obj\Debug\net8.0\whetherSimulator.AssemblyInfo.cs
+C:\Users\gbanu\source\repos\whetherSimulator\whetherSimulator\obj\Debug\net8.0\whetherSimulator.csproj.CoreCompileInputs.cache
+C:\Users\gbanu\source\repos\whetherSimulator\whetherSimulator\obj\Debug\net8.0\whetherSimulator.dll
+C:\Users\gbanu\source\repos\whetherSimulator\whetherSimulator\obj\Debug\net8.0\refint\whetherSimulator.dll
+C:\Users\gbanu\source\repos\whetherSimulator\whetherSimulator\obj\Debug\net8.0\whetherSimulator.pdb
+C:\Users\gbanu\source\repos\whetherSimulator\whetherSimulator\obj\Debug\net8.0\whetherSimulator.genruntimeconfig.cache
+C:\Users\gbanu\source\repos\whetherSimulator\whetherSimulator\obj\Debug\net8.0\ref\whetherSimulator.dll
